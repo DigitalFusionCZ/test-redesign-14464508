@@ -1,0 +1,46 @@
+{
+  "generated_at": "2025-07-28T15:03:20.682Z",
+  "total_images": 5,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-vseprostavby.png",
+      "file_name": "logo-vseprostavby.png",
+      "description": "The company logo featuring a green outline of a house with internal lighter green windows and a door.",
+      "suggested_usage": "Use as the primary company logo in the header and footer.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/featured-house-elevation-after-renovation.jpg",
+      "file_name": "featured-house-elevation-after-renovation.jpg",
+      "description": "A renovated house with a dark brown wooden upper facade and a light-colored lower facade, set against a backdrop of green trees and a cloudy sky.",
+      "suggested_usage": "Use as a large hero image or a featured project image on the homepage or services section.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-modern-house-renovation.jpg",
+      "file_name": "project-modern-house-renovation.jpg",
+      "description": "A modern renovated house with a dark grey tiled roof and light-colored walls, with dark framed windows. Two cars are parked on the street in front of the house.",
+      "suggested_usage": "Use as a project showcase image or as part of a before-and-after section for renovation services.",
+      "size_bytes": 558411
+    },
+    {
+      "original_url": "http://vseprostavby.4fan.cz/wp-content/uploads/2020/12/ThermoSAN.png",
+      "file_path": "public/images/product-thermosan-om-tka-packaging.png",
+      "file_name": "product-thermosan-om-tka-packaging.png",
+      "description": "A detailed layout design for 'ThermoSAN Sanační a Tepeplně Izolační Omítka' product packaging, showing dimensions and product information in green and white.",
+      "suggested_usage": "Use on a dedicated 'Products' or 'Materials' page to showcase product offerings.",
+      "size_bytes": 597382
+    },
+    {
+      "original_url": "http://vseprostavby.4fan.cz/wp-content/uploads/2020/12/ThermoIN.png",
+      "file_path": "public/images/product-thermoin-om-tka-packaging.png",
+      "file_name": "product-thermoin-om-tka-packaging.png",
+      "description": "A detailed layout design for 'Thermo IN Stuková Omítka' product packaging, showing dimensions and product information in blue and white.",
+      "suggested_usage": "Use on a dedicated 'Products' or 'Materials' page to showcase product offerings.",
+      "size_bytes": 415494
+    }
+  ]
+}
